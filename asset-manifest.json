@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dreidel/static/css/main.489442fc.chunk.css",
+    "main.js": "/dreidel/static/js/main.fbb79fe1.chunk.js",
+    "main.js.map": "/dreidel/static/js/main.fbb79fe1.chunk.js.map",
+    "runtime-main.js": "/dreidel/static/js/runtime-main.5ec3a9eb.js",
+    "runtime-main.js.map": "/dreidel/static/js/runtime-main.5ec3a9eb.js.map",
+    "static/js/2.e3dbf0da.chunk.js": "/dreidel/static/js/2.e3dbf0da.chunk.js",
+    "static/js/2.e3dbf0da.chunk.js.map": "/dreidel/static/js/2.e3dbf0da.chunk.js.map",
+    "static/js/3.5a7b7f80.chunk.js": "/dreidel/static/js/3.5a7b7f80.chunk.js",
+    "static/js/3.5a7b7f80.chunk.js.map": "/dreidel/static/js/3.5a7b7f80.chunk.js.map",
+    "index.html": "/dreidel/index.html",
+    "static/css/main.489442fc.chunk.css.map": "/dreidel/static/css/main.489442fc.chunk.css.map",
+    "static/js/2.e3dbf0da.chunk.js.LICENSE.txt": "/dreidel/static/js/2.e3dbf0da.chunk.js.LICENSE.txt",
+    "static/media/gimmel.056094b6.png": "/dreidel/static/media/gimmel.056094b6.png",
+    "static/media/nun.ed4112c8.png": "/dreidel/static/media/nun.ed4112c8.png",
+    "static/media/shin.7f6bb30e.png": "/dreidel/static/media/shin.7f6bb30e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ec3a9eb.js",
+    "static/js/2.e3dbf0da.chunk.js",
+    "static/css/main.489442fc.chunk.css",
+    "static/js/main.fbb79fe1.chunk.js"
+  ]
+}
